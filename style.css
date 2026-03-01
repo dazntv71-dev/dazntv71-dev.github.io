@@ -46,7 +46,7 @@ section{
 .main{
   display: flex;
   align-items: center;
-  background: url(images/background.jpg) no-repeat;
+  background: url(background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -299,4 +299,5 @@ section{
   body{
     font-size: 10px; 
   }
+
 }
